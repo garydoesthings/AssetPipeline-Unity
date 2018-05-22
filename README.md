@@ -1,1 +1,1 @@
-AssetPipeline-Unity
+Unity project for "Asset Pipeline" class.
